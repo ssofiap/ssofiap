@@ -1,5 +1,5 @@
 - ⊹ Hi there, I’m @ssofiap a.k.a. Sofia!
-- ✮ I’m a first-year uni student, majoring in Computer Science.
+- ✮ I’m a second-year university student, majoring in Computer Science.
 - ☾ I’ve created this GitHub account to facilitate collaboration on academic/personal projects.
 
 <!---
